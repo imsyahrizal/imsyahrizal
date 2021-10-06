@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Im S**.\
 Ini merupakan akun Github kedua saya
+
+
+<p align="left">
+<a href="https://github.com/imsyahrizal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imsyahrizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imsyahrizal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
