@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo Semua!
+
+Perkenalkan nama saya **Im S**.\
+Ini merupakan akun Github kedua saya
